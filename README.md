@@ -1,9 +1,9 @@
 # Covid19 Statistics Tracker App
 Covid19 Live Statictics
 
-> **[WEBSITE](HTTPS://W3DEVZ.NOW.SH/COVID19TRACKER.HTML "VISIT WEBSITE 🌐")**
+> **[WEBSITE](https://covid19counts.now.sh "VISIT WEBSITE 🌐")**
 
-> **[DOWNLOAD APK](HTTPS://W3DEVZ.NOW.SH/COVID19TRACKER/COVID_19_TRACKER.APK "DOWNLOAD APK")**
+> **[DOWNLOAD APK](https://webapp.diawi.com/install/AdP4ib "DOWNLOAD APK")**
 
 > A simple Flutter app which shows the COVID-19 cases in India with respective states as well as world wide cases.
 Data from [COVID-19_INDIA.ORG](https://api.covid19india.org "COVID-19 India.org")
