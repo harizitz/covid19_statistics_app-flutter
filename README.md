@@ -23,7 +23,7 @@ We get data from [COVID-19_INDIA.ORG](https://api.covid19india.org "COVID-19 Ind
 
 <img src="https://covid19counts.now.sh/images/screenshot-3.png" width="250" style="border-radius: 15px">&nbsp;&nbsp;&nbsp;<img src="https://covid19counts.now.sh/images/screenshot-4.png" width="250" style="border-radius: 15px">
 
-<img src="https://covid19counts.now.sh/images/screenshot-5.png " width="250" style="border-radius: 15px">
+<img src="https://covid19counts.now.sh/images/screenshot-5.png" width="250" style="border-radius: 15px">
 
 
 
