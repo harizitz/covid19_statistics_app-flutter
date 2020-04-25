@@ -1,4 +1,4 @@
-#  COVID-19 Live Statistics
+#  COVID-19 Live Statistics App
 
  **[🌐 Web Version ](https://covid19countsweb.now.sh/#/ "VISIT WEBSITE 🌐")**
 
